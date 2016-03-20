@@ -94,7 +94,7 @@ if( !class_exists( 'EDD_GOOGLE_ADWORDS' ) ) {
         private function includes() {
 
             // Get out if EDD is not active
-            if ( class_exists( 'Easy_Digital_Downloads' ) ) {
+            if ( ! class_exists( 'Easy_Digital_Downloads' ) ) {
                 return;
             }
 
