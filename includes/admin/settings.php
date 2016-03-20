@@ -38,14 +38,14 @@ function edd_gadw_add_extensions_settings( $extensions_settings ) {
             'id'      => 'edd_gadw_conversion_id',
             'name' => __( 'Conversion ID', 'edd-google-adwords' ),
             'type' => 'text',
-            'desc' => _( 'e.g. 1023980795', 'edd-google-adwords' ),
+            'desc' => __( 'e.g. 1023980795', 'edd-google-adwords' ),
             'std' => ''
         ),
         'edd_gadw_conversion_label' => array(
             'id'      => 'edd_gadw_conversion_label',
             'name' => __( 'Conversion Label', 'edd-google-adwords' ),
             'type' => 'text',
-            'desc' => _( 'e.g. cl3DNMLf5GQQ373A4wN', 'edd-google-adwords' ),
+            'desc' => __( 'e.g. cl3DNMLf5GQQ373A4wN', 'edd-google-adwords' ),
             'std' => ''
         ),
 
