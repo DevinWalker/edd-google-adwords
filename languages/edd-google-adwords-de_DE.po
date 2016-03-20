@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Digital Downloads - Google AdWords\n"
+"POT-Creation-Date: 2016-03-20 16:26+0800\n"
+"PO-Revision-Date: 2016-03-20 16:29+0800\n"
+"Last-Translator: flowdee <coder@flowdee.de>\n"
+"Language-Team: flowdee <coder@flowdee.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: edd-google-adwords.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: edd-google-adwords.php:203
+msgid "Configure"
+msgstr "Einstellungen"
+
+#: includes/admin/settings.php:26
+msgid "Conversion Tracking"
+msgstr "Conversion-Tracking"
+
+#: includes/admin/settings.php:27
+msgid "Configure the Google AdWords conversion tracking"
+msgstr "Google AdWords Conversion-Tracking einstellen"
+
+#: includes/admin/settings.php:32
+msgid "Status"
+msgstr "Status"
+
+#: includes/admin/settings.php:33
+msgid "Check in order to insert the tracking code"
+msgstr "Aktivieren, um den Tracking-Code einzufügen"
+
+#: includes/admin/settings.php:39
+msgid "Conversion ID"
+msgstr "Conversion-ID"
+
+#: includes/admin/settings.php:41
+msgid "e.g. 1023980795"
+msgstr "z.B. 1023980795"
+
+#: includes/admin/settings.php:46
+msgid "Conversion Label"
+msgstr "Conversion-Label"
+
+#: includes/admin/settings.php:48
+msgid "e.g. cl3DNMLf5GQQ373A4wN"
+msgstr "z.B. cl3DNMLf5GQQ373A4wN"
+
+#: includes/admin/settings.php:67
+msgid "Google AdWords"
+msgstr "Google AdWords"
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Digital Downloads - Google AdWords"
+msgstr "Easy Digital Downloads - Google AdWords"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/edd-google-adwords/"
+msgstr "https://wordpress.org/plugins/edd-google-adwords/"
+
+#. Description of the plugin/theme
+msgid ""
+"Adding Google AdWords conversion tracking for your Easy Digital Downloads "
+"store."
+msgstr ""
+"Hinzufügen des Google AdWords Conversion-Trackings in deinen bestehenden "
+"Easy Digital Downloads Shop"
+
+#. Author of the plugin/theme
+msgid "flowdee"
+msgstr "flowdee"
+
+#. Author URI of the plugin/theme
+msgid "http://flowdee.de"
+msgstr "http://flowdee.de"
