@@ -3,7 +3,7 @@
  * Plugin Name:     Easy Digital Downloads - Google AdWords
  * Plugin URI:      https://wordpress.org/plugins/edd-google-adwords/
  * Description:     Adding Google AdWords support for Easy Digital Downloads
- * Version:         1.0.0
+ * Version:         1.1.0
  * Author:          flowdee
  * Author URI:      http://flowdee.de
  * Text Domain:     edd-google-adwords

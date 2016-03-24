@@ -4,7 +4,7 @@ Donate link: http://donate.flowdee.de
 Tags: edd, easy digital downloads, google, google adwords, tracking, conversion, google adwords tracking, google adwords conversion, google adwords conversion tracking, flowdee
 Requires at least: 3.5.1
 Tested up to: 4.4.2
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -20,6 +20,8 @@ This plugin adds Google AdWords conversion tracking to your Easy Digital Downloa
 *   Setup conversion label via settings
 *   Collecting the total amount (value) and currency of conversions
 *   Inserts tracking code automatically to valid purchases
+
+**Currently using the tracking pixel image method due to the fact that WordPress strips out the CDATA comments of the script method.**
 
 = Support =
 
@@ -68,10 +70,18 @@ Yes of course.
 
 == Changelog ==
 
+= Version 1.1.0 (24th March 2016) =
+* Switched to image method because WordPress strips out the CDATA comments of script method
+* Optimized tracking code implementation
+
 = Version 1.0.0 (20th March 2016) =
 * Initial release
 
 == Upgrade Notice ==
+
+= Version 1.1.0 (24th March 2016) =
+* Switched to image method because WordPress strips out the CDATA comments of script method
+* Optimized tracking code implementation
 
 = Version 1.0.0 (20th March 2016) =
 * Initial release
