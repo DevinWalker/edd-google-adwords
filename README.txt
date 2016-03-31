@@ -3,7 +3,7 @@ Contributors: flowdee
 Donate link: http://donate.flowdee.de
 Tags: edd, easy digital downloads, google, google adwords, tracking, conversion, google adwords tracking, google adwords conversion, google adwords conversion tracking, flowdee
 Requires at least: 3.5.1
-Tested up to: 4.4.2
+Tested up to: 4.5.0
 Stable tag: 1.1.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
