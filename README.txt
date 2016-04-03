@@ -4,7 +4,7 @@ Donate link: http://donate.flowdee.de
 Tags: edd, easy digital downloads, google, google adwords, tracking, conversion, google adwords tracking, google adwords conversion, google adwords conversion tracking, flowdee
 Requires at least: 3.5.1
 Tested up to: 4.5.0
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -20,6 +20,7 @@ This plugin adds Google AdWords conversion tracking to your Easy Digital Downloa
 *   Setup conversion label via settings
 *   Collecting the total amount (value) and currency of conversions
 *   Inserts tracking code automatically to valid purchases
+*   Additional support for the following gateway extensions: [Bank Transfer Gateway](https://coder.flowdee.de/easy-digital-downloads-bank-transfer-gateway/?utm_source=wordpress.org&utm_medium=Description&utm_content=EDD%20Google%20AdWords&utm_campaign=EDD%20Bank%20Transfer%20Gateway)
 
 **Currently using the tracking pixel image method due to the fact that WordPress strips out the CDATA comments of the script method.**
 
@@ -70,6 +71,9 @@ Yes of course.
 
 == Changelog ==
 
+= Version 1.1.1 (3rd April 2016) =
+* Added support for [EDD Bank Transfer Gateway](https://coder.flowdee.de/easy-digital-downloads-bank-transfer-gateway/?utm_source=wordpress.org&utm_medium=Changelog&utm_content=EDD%20Google%20AdWords&utm_campaign=EDD%20Bank%20Transfer%20Gateway)
+
 = Version 1.1.0 (24th March 2016) =
 * Switched to image method because WordPress strips out the CDATA comments of script method
 * Optimized tracking code implementation
@@ -78,6 +82,9 @@ Yes of course.
 * Initial release
 
 == Upgrade Notice ==
+
+= Version 1.1.1 (3rd April 2016) =
+* Added support for [EDD Bank Transfer Gateway](https://coder.flowdee.de/easy-digital-downloads-bank-transfer-gateway/?utm_source=wordpress.org&utm_medium=Changelog&utm_content=EDD%20Google%20AdWords&utm_campaign=EDD%20Bank%20Transfer%20Gateway)
 
 = Version 1.1.0 (24th March 2016) =
 * Switched to image method because WordPress strips out the CDATA comments of script method
